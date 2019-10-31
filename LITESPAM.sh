@@ -6,11 +6,11 @@ chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
 
-toilet -f slant --gay "LiteSpam"
+Togog -f slant --gay "d34th5kull"
 sleep 1
 echo "\033[33;1m Macam-macam tool untuk spam"
 sleep 1
-echo "\033[36;1m★""\033[34;1mIndonesia Security Lite""\033[36;1m★"
+echo "\033[36;1m★""\033[34;1mD34TH 5KULL""\033[36;1m★"
 sleep 1
 echo "\033[32;1m Spam Yang Tersedia :"
 echo "\033[35;1m1.""\033[36;1mBukalapak"
@@ -32,10 +32,10 @@ toilet -f slant "Bukalapak"
 echo "\033[31;1mJenis Spam:""\033[37;1mChat WhatsApp"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
+echo "\033[31;1mAuthor:""\033[37;d34th_5kull"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/D34TH5KULL/Tul/
 php 1
 fi
 
@@ -48,10 +48,10 @@ toilet "T-Sel"
 echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mDanz"
+echo "\033[31;1mAuthor:""\033[37;1mD34th5kull"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/D34TH5KULL/Tul/
 php 2.php
 fi
 
@@ -63,10 +63,10 @@ figlet "Grab"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
+echo "\033[31;1mAuthor:""\033[37;1mD34TH 5KULL"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/D34TH5KULL/Tul/
 php 3.php
 fi
 
@@ -74,25 +74,25 @@ fi
 if [ $mrrm = 4 ] || [ $mrrm = 4 ]
 then
 clear
-toilet -f mono9 -F gay "Toked"
+togog -f mono9 -F gay "Toked"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1m1 Kali"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
+echo "\033[31;1mAuthor:""\033[37;1mD34th5kull"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/D34TH5KULL/Tul/
 php 4.php
 fi
 
 if [ $mrrm = 5 ] || [ $mrrm = 5 ]
 then
 clear
-toilet -f slant -F gay "CodaShop"
+togog -f slant -F gay "CodaShop"
 echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mBullyHat"
+echo "\033[31;1mAuthor:""\033[37;1mD34TH5KULL"
 echo
 echo
 echo "\033[33;1mCOPY LISENSI INI:" "\033[36;1mJDJ5JDEwJC9YMWRvNC5jcmNOSUw2dGdUaUt2d08ucWEvWURWSFNCTXI3U21wdkdsR1FMcVBSTW1oNUZH"
@@ -100,7 +100,7 @@ sleep 1
 echo "\033[32;1mtunggu 5 Detik"
 sleep 5
 clear
-cd $HOME/LITESPAM/Tul/
+cd $HOME/D34TH5KULL/Tul/
 php 5.php
 fi
 
@@ -108,13 +108,13 @@ if
 [ $mrrm = 6 ] || [ $mrrm = 6 ]
 then
 clear
-toilet -f standard -F gay "Surveyon "
+togog -f standard -F gay "Surveyon "
 echo "\033[31;1mJenis Spam:""\033[37;1mEmail"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mphp"
-echo "\033[31;1mAuthor:""\033[37;1mChandra Aditya"
+echo "\033[31;1mAuthor:""\033[37;1mD34TH5KULL"
 sleep 5
-cd $HOME/LITESPAM/Tul/
+cd $HOME/D34TH5KULL/Tul/
 php 6.php
 fi
 
@@ -122,14 +122,14 @@ if
 [ $mrrm = 7 ] || [ $mrrm = 7 ]
 then
 clear
-toilet -f slant --gay "SMSID"
+togog -f slant --gay "SMSID"
 echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
 echo "\033[31;1mBatas:""\033[37;1m5"
 echo "\033[31;1mPemograman:""\033[37;1mBerjalan Langsung Pada DalvikVM"
-echo "\033[31;1mAuthor:""\033[37;1mAmsitlab"
+echo "\033[31;1mAuthor:""\033[37;1mD34TH5KULL"
 echo
 echo
-echo "\033[33;1mInformasi Lebih Lanjut Kunjungi:""\033[36;1mhttps://amsitlab.github.io/smsid-java/"
+echo "\033[33;1mInformasi Lebih Lanjut Kunjungi:""\033[36;1mhttps://amsitlab.github.io/bangjawa/"
 sleep 6
 smsid boom -y
 fi
@@ -138,36 +138,33 @@ if
 [ $mrrm = 81 ] || [ $mrrm = 81 ]
 then
 clear
-toilet -f slant --gay "LiteSpam"
-echo "\033[34;1mContact:""\033[37;1m https://fb.me/IrsyadMaulana81"
+togog -f slant --gay "D34TH5KULL"
+echo "\033[34;1mContact:""\033[37;1m https://ig.me/d34th_5kull"
 
 
 sleep 1
-echo "\033[35;1mPemograman:""\033[36;1m Bash"
+echo "\033[35;1mPemograman:""\033[36;1m d34th5kull"
 
-echo "\033[33;1mKarya: IM81"
+echo "\033[33;1mKarya: bj2906"
 sleep 1
 echo "\033[32;1mVersi: v3"
 sleep 1
-echo "\033[36;1mTeam: Indonesia Security Lite"
+echo "\033[36;1mTeam: OPpedohunt"
 sleep 1
-echo "\033[31;1mSubscribe YouTube""\033[37;1m HeXeRz"
 echo "\033[35;1m Spesial Thanks To: "
 echo "\033[36;1m"
-echo "Danz"
-echo "Mr.Rm"
-echo "SBGTeam"
-echo "amsitlab"
-echo "Bully Hat"
-echo "ChandraAditya"
-echo "Secoly Indonesia"
-echo "BlackHole Security"
-echo "Association Indonesian Right Wings"
+echo "D34th_5kull"
+echo "Bang Jawa"
+echo "OPpedohunt"
+echo "bj2906"
+echo "Bangjawa007"
+echo "muslimcyberarmy"
+echo "odoy Jr"
 sleep 1
-echo "And All Member Indonesia Security Lite"
+echo "And All Member Indonesia Bersholawat"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
-sh LITESPAM.sh
+sh d34th5kull.sh
 fi
 
 
