@@ -6,7 +6,7 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 $ pkg update upgrade
 $ pkg install git python2 toilet figlet php
 $ git clone https://github.com/bangjawa/bom-sms
-$ cd deatskull
+$ cd deathskull
 ```
 # PERINGATAN
 KAMI HANYA MENYEDIAKAN TOOLS UNTUK TUJUAN KEBAIKAN BUKAN DISALAHKAN GUNAKAN UNTUK MENJAHILI SESEORANG
